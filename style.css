@@ -66,13 +66,7 @@ html::-webkit-scrollbar-thumb{
     height: calc(100% - 80px);
     width: 100%;
 }
-.page5{
-    background-color: #0d0d0d;
-    display: flex;
-    justify-content: center;
-    height:30vh ;
-    width:100%;
-}
+
 .container-page1-left {
     display: flex;
     align-items: center;
@@ -560,7 +554,13 @@ form textarea{
     max-width: 800px;
     
 } 
-
+.page5{
+    background-color: #0d0d0d;
+    display: flex;
+    justify-content: center;
+    height:30vh ;
+    width:100%;
+}
 
 @media(max-width:950px){
     .container-right{
@@ -715,6 +715,7 @@ header{
 .numbers{
     font-size: 1.9rem;
 }
+
 @media (max-width:678px) {
     .container-page1 {
         display: flex;
