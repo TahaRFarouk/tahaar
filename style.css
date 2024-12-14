@@ -66,7 +66,13 @@ html::-webkit-scrollbar-thumb{
     height: calc(100% - 80px);
     width: 100%;
 }
-
+.page5{
+    background-color: #0d0d0d;
+    display: flex;
+    justify-content: center;
+    height:30vh ;
+    width:100%;
+}
 .container-page1-left {
     display: flex;
     align-items: center;
