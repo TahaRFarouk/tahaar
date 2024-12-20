@@ -1,6 +1,6 @@
 <?php
 
-    $con = mysqli_connect('localhost','root');
+    $con = mysqli_connect('https://taharfarouk.github.io/tahaar/','root');
     if ($con){
         echo "Connection Succefult";
     }else {
